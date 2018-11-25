@@ -1,3 +1,6 @@
 [submodule "bootloader"]
 	path = bootloader
 	url = https://github.com/mwhitson/uf2-samdx1.git
+[submodule "arduino/lib/LRAS1130"]
+	path = arduino/lib/LRAS1130
+	url = https://github.com/mwhitson/LRAS1130.git
